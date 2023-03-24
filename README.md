@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karmagandap
 - 👀 I’m interested in UI/UX Design, Coding, Gadget/Technologies, and Gaming!
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript & PHP
 - 💞️ I’m looking to collaborate on UI/UX Design
 - 📫 Contact me via email karmagandap@gmail.com
 
